@@ -1,0 +1,7 @@
+D:\Visual Studio Project\CalculateFuelCost\CalculateFuelCost\bin\Debug\CalculateFuelCost.exe.config
+D:\Visual Studio Project\CalculateFuelCost\CalculateFuelCost\bin\Debug\CalculateFuelCost.exe
+D:\Visual Studio Project\CalculateFuelCost\CalculateFuelCost\bin\Debug\CalculateFuelCost.pdb
+D:\Visual Studio Project\CalculateFuelCost\CalculateFuelCost\obj\Debug\CalculateFuelCost.csproj.AssemblyReference.cache
+D:\Visual Studio Project\CalculateFuelCost\CalculateFuelCost\obj\Debug\CalculateFuelCost.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\CalculateFuelCost\CalculateFuelCost\obj\Debug\CalculateFuelCost.exe
+D:\Visual Studio Project\CalculateFuelCost\CalculateFuelCost\obj\Debug\CalculateFuelCost.pdb
